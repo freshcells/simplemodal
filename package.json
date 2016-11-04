@@ -2,9 +2,5 @@
   "name": "simplemodal",
   "version": "1.0.0",
   "description": "Simple Modal",
-  "main": "src/js/jquery.simplemodal.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/freshcells/simplemodal.git"
-  }
+  "main": "src/js/jquery.simplemodal.js"
 }
